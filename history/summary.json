@@ -1,22 +1,20 @@
 [
   {
     "name": "Oronder",
-    "url": "https://api.oronder.com/zqaBTpcyxNdiS2uRjC0pl7WP9snUPkZy",
-    "icon": "https://icons.duckduckgo.com/ip3/api.oronder.com.ico",
+    "url": "$ORONDER_HEARTBEAT_API",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oronder",
     "status": "up",
-    "uptime": "97.99%",
-    "uptimeDay": "97.99%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "97.99%",
-    "uptimeYear": "97.99%",
-    "time": 149,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
-    "dailyMinutesDown": {
-      "2025-06-04": 2
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 159,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
+    "dailyMinutesDown": {}
   }
 ]
