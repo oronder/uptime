@@ -1,5 +1,5 @@
 # Change these first
-owner: Oronder # Your GitHub organization or username, where this repository lives
+owner: oronder # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
