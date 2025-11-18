@@ -4,7 +4,7 @@
     "url": "$ORONDER_HEARTBEAT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oronder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
@@ -16,6 +16,7 @@
     "timeMonth": 236,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-11-16": 79,
       "2025-11-07": 181,
       "2025-11-06": 31,
