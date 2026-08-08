@@ -4,16 +4,16 @@
     "url": "$ORONDER_HEARTBEAT_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "oronder",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.82%",
-    "time": 178,
-    "timeDay": 133,
-    "timeWeek": 161,
-    "timeMonth": 176,
+    "time": 179,
+    "timeDay": 199,
+    "timeWeek": 170,
+    "timeMonth": 178,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2025-08-23": 18,
@@ -32,7 +32,8 @@
       "2026-06-08": 57,
       "2026-07-23": 46,
       "2026-08-04": 59,
-      "2026-08-03": 8
+      "2026-08-03": 8,
+      "2026-08-08": 0
     }
   }
 ]
