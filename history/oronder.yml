@@ -1,7 +1,7 @@
 url: $ORONDER_HEARTBEAT_API
 status: up
 code: 200
-responseTime: 280
-lastUpdated: 2026-09-19T00:59:28.349Z
+responseTime: 120
+lastUpdated: 2026-09-20T00:42:20.072Z
 startTime: 2025-06-04T02:14:10.478Z
 generator: Upptime <https://github.com/upptime/upptime>
